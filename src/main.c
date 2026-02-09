@@ -87,7 +87,7 @@ int main(void)
         }
 
     // Si la contraseña es incorrecta, se le indica al usuario que la contraseña es incorrecta y se incrementa el conteo de intentos.
-    
+
 
         printf("Incorrect password.\n");
         attempts++;
